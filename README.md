@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Ryan Lucca!
 
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFSP.
-
 💻 Desenvolvedor de software em formação, com interesse em desenvolvimento **Front-End e Back-End**.
 
 ### 🚀 Tecnologias
