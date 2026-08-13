@@ -24,7 +24,7 @@ Aprimorando meus conhecimentos em programação, desenvolvimento web, lógica de
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha formação, utilizados para colocar em prática os conhecimentos adquiridos e evoluir minhas habilidades como desenvolvedor.
 
-### 📬 Contato
+<h2>📬 Contato</h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-lucca-b788a63aa/" target="_blank">
@@ -33,14 +33,5 @@ Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante min
 
   <a href="mailto:luccaryan24@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ryan-lucca-b788a63aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:luccaryan24@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
