@@ -1,3 +1,4 @@
+![Banner](./banner.svg)
 # 👋 Olá, eu sou Ryan Lucca!
 
 🎓 Estudante de **Tecnologia em Sistemas para Internet** no IFSP.
