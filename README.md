@@ -28,10 +28,9 @@ Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante min
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-lucca-b788a63aa/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
   <a href="mailto:luccaryan24@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
