@@ -24,7 +24,7 @@ Aprimorando meus conhecimentos em programação, desenvolvimento web, lógica de
 
 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha formação, utilizados para colocar em prática os conhecimentos adquiridos e evoluir minhas habilidades como desenvolvedor.
 
-<h2>📬 Contato</h2>
+###📬 Contato
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ryan-lucca-b788a63aa/" target="_blank">
